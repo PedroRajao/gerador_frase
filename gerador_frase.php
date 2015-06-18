@@ -1,6 +1,6 @@
 <?php
 
-// VARIAVEIS
+// VARIAVEIS teste
 $nome = rand_line("Dados/lista_nomes.txt");
 $verbo = rand_line("Dados/sub_lista_verbos.txt");
 $substantivo = rand_line("Dados/sub_lista_substantivos.txt");
