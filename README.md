@@ -1,5 +1,3 @@
 # gerador_frase
 Gera frases simples (nome proprio + verbo ( tpd várias conjugações verbais ) + pronome + substantivo) 
-uuhiuh
-
-kljhjiiipio ijó jókp
+vtnc
