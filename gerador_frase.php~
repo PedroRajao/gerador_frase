@@ -14,7 +14,7 @@ echo $frase;
 
 // METODOS
 // @param = string substantivo
-// @retorna = string pronome ( de acordo com o genero do substantivo)
+// @retorna = string pronome ( de acordo com o genero do substantivo )
 function pronome($substantivo) {
 
     $palavra = str_split($substantivo);
