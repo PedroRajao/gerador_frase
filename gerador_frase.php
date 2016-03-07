@@ -1,14 +1,14 @@
 <?php
 
-// VARIAVEIS teste
+// PRINCIPAL
+// 
+// Variáveis
 $nome = rand_line("Dados/lista_nomes.txt");
 $verbo = rand_line("Dados/sub_lista_verbos.txt");
 $substantivo = rand_line("Dados/sub_lista_substantivos.txt");
 $verbo_passado = conjugar_passado($verbo);
 
-// TESTES
-// $substantivo = 'trana';
-// PRINCIPAL
+// Chamadas
 $frase = $nome . ' ' . conjugar_passado($verbo) . ' ' . pronome($substantivo) . ' ' . $substantivo;
 echo $frase;
 
