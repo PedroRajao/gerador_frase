@@ -1,5 +1,17 @@
 <?php
 
+// @param = string substantivo
+// @param = string substantivo
+// @param = string substantivo
+// @param = string substantivo
+// @param = string substantivo
+// @param = string substantivo
+// @param = string substantivo
+// @param = string substantivo
+// @param = string substantivo
+// @param = string substantivo
+// @param = string substantivo
+
 // PRINCIPAL
 // 
 // Variáveis
